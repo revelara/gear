@@ -1,1 +1,1 @@
-Solidity basic smart contracts
+Solidity, Substrate and Gear basic smart contracts
